@@ -21,8 +21,8 @@ Starting from scratch.
 
 ## Planned Projects
 - Personal portfolio website
-- Small Python script
-- JavaScript mini app
+- Small python game
+- Passion Project with real-world impact
 
 ## Progress
 - Day 1: Created the repository and wrote the README.
